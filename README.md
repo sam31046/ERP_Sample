@@ -1,2 +1,3 @@
 # ERP_Sample
- ERP Sample with Object-Oriented Programming
+ ERP (Enterprise Resource Planning) Sample with Object-Oriented Programming.  
+ By Dong-You, Jhong. 
